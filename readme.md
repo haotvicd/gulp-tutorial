@@ -7,13 +7,10 @@
 
 3.Install plugins
 **SCSS convert, min, and autoprefix*
-`npm i -D gulp-sass gulp-autoprefixer gulp-clean-css`
+`npm i -D gulp-sass sass gulp-clean-css`
 
 **JS min*
-`npm i -D gulp-terser`
-
-**Image min and webp*
-`npm i -D gulp-imagemin gulp-webp`
+`npm i -D gulp-minify`
 
 4.Add gulpfile.js
 
