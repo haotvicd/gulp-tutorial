@@ -6,11 +6,17 @@
 `npm i -g -D gulp`
 
 3.Install plugins
-**SCSS convert, min, and autoprefix*
+**Convert PUG -> html*
+`npm i -D gulp-pug`
+
+**SCSS convert, min*
 `npm i -D gulp-sass sass gulp-clean-css`
 
-**JS min*
+**JS min, ignore file*
 `npm i -D gulp-minify`
+
+**Create live server with browser sync*
+`npm i -D browser-sync`
 
 4.Add gulpfile.js
 
